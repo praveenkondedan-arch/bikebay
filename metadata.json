@@ -1,0 +1,8 @@
+{
+  "name": "MotoBay - Bike Service Center Management System",
+  "description": "A clean, modern Bike Service Center Management System with Admin & Customer panels, JWT authentication, live 6-stage service tracking, mechanic assignment, and invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
